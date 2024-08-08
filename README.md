@@ -1,7 +1,7 @@
 # RecycleRiver
 
 A serious game developed with Unreal Engine 5. Aims to help people know more about waste sorting and cultivate environmental awareness.
-It is recommended to use the clone method to download the project
+It is recommended to use the clone method to download the project.
 
 
 Assets come from Unreal Marketplace and internet.
