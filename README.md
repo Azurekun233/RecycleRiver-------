@@ -1,8 +1,7 @@
 # RecycleRiver
 
 A serious game developed with Unreal Engine 5. Aims to help people know more about waste sorting and cultivate environmental awareness.
-Please ues clone to download the project instead of download the ZIP.
-
+It is recommended to use the clone method to download the project.
 
 
 Assets come from Unreal Marketplace and internet.
@@ -16,4 +15,4 @@ https://taira-komori.jpn.org/freesoundcn.html
 Image:
 https://pixabay.com/zh/photos/river-tea-mi%C3%B1o-river-mouth-galicia-5330961/
 https://pixabay.com/zh/photos/belper-derbyshire-peak-district-1633859/
-YouTube Link:https://youtu.be/lYClGbxCIZw
+YouTube Link:[https://youtu.be/lYClGbxCIZw](https://youtu.be/1NkXfgISEqQ)
